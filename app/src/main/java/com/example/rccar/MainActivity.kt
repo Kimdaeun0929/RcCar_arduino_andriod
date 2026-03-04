@@ -293,7 +293,6 @@ class MainActivity : AppCompatActivity() {
         }.start()
     }
 
-
     private fun addLog(msg: String) {
         tvLog.append("\n> $msg")
 
